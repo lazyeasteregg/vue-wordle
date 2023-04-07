@@ -25,7 +25,8 @@ export function getWordOfTheDay() {
 }
 
 // copied from Wordle source
-const  'alive',
+const answers = [
+  'alive',
   'mummy',
   'cloth',
   'candy',
